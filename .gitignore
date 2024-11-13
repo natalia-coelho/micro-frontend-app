@@ -1,0 +1,15 @@
+
+product-detail-page/node_modules
+product-detail-page/.babelrc
+product-detail-page/.gitignore
+product-detail-page/compilation.config.js
+product-detail-page/postcss.config.js
+product-detail-page/tailwind.config.js
+product-detail-page/webpack.config.js
+
+home/.babelrc
+home/.gitignore
+home/compilation.config.js
+home/postcss.config.js
+home/tailwind.config.js
+home/webpack.config.js
